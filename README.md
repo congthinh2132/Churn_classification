@@ -1,4 +1,4 @@
-# Churn Classification
+# Customer churn behavior
 
 ## Overview
 This project focuses on developing predictive models to classify and understand customer churn behavior. The aim is to aid in retention strategies and business decision-making by accurately forecasting which customers are likely to churn.
